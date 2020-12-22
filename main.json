@@ -37,7 +37,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"wand.mp3"
+                 "value":"pocapps\/wand2.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
