@@ -1,0 +1,14 @@
+{ "columns":1,
+ "image":"02_mate_crates_1.png",
+ "imageheight":96,
+ "imagewidth":32,
+ "margin":0,
+ "name":"02_mate_crates_1",
+ "spacing":0,
+ "tilecount":3,
+ "tiledversion":"2020.12.18",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":1.4
+}

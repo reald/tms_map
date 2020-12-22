@@ -1,0 +1,14 @@
+{ "columns":13,
+ "image":"SDR_CTF_flag_416.png",
+ "imageheight":416,
+ "imagewidth":416,
+ "margin":0,
+ "name":"SDR_CTF_flag_416",
+ "spacing":0,
+ "tilecount":169,
+ "tiledversion":"2020.12.18",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":1.4
+}
