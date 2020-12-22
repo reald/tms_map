@@ -158,8 +158,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":5,
          "firstgid":2232,
-         "source":"tiles_png\/community\/cert\/imgs\/c3_deko\/2_Rundzelt_0.json"
+         "image":"tiles_png\/community\/cert\/imgs\/c3_deko\/2_Rundzelt_0.png",
+         "imageheight":96,
+         "imagewidth":160,
+         "margin":0,
+         "name":"2_Rundzelt_0",
+         "spacing":0,
+         "tilecount":15,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "columns":2,
