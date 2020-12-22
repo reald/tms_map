@@ -93,32 +93,138 @@
  "tileheight":32,
  "tilesets":[
         {
+         "columns":13,
          "firstgid":1,
-         "source":"SDR_CTF_flag_final.json"
+         "image":"SDR_CTF_flag_416.png",
+         "imageheight":416,
+         "imagewidth":416,
+         "margin":0,
+         "name":"SDR_CTF_flag_416",
+         "spacing":0,
+         "tilecount":169,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":8,
          "firstgid":170,
-         "source":"tiles_png\/community\/cert\/imgs\/tilesheets\/floortileset.json"
+         "image":"tiles_png\/community\/cert\/imgs\/tilesheets\/floortileset.png",
+         "imageheight":256,
+         "imagewidth":256,
+         "margin":0,
+         "name":"floortileset",
+         "spacing":0,
+         "tilecount":64,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":15,
          "firstgid":234,
-         "source":"tiles_png\/community\/bytewerk\/cija_32x32_expansion for Pipoya_CC0.json"
+         "image":"tiles_png\/community\/bytewerk\/cija_32x32_expansion for Pipoya_CC0.png",
+         "imageheight":4256,
+         "imagewidth":480,
+         "margin":0,
+         "name":"cija_32x32_expansion for Pipoya_CC0",
+         "spacing":0,
+         "tilecount":1995,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":1,
          "firstgid":2229,
-         "source":"tiles_png\/community\/cert\/imgs\/food_and_drinks\/01_mate.json"
+         "image":"tiles_png\/community\/cert\/imgs\/food_and_drinks\/01_mate.png",
+         "imageheight":32,
+         "imagewidth":32,
+         "margin":0,
+         "name":"01_mate",
+         "spacing":0,
+         "tilecount":1,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":2,
          "firstgid":2230,
-         "source":"tiles_png\/community\/cert\/imgs\/misc\/48_Neuland2.json"
+         "image":"tiles_png\/community\/cert\/imgs\/misc\/48_Neuland2.png",
+         "imageheight":32,
+         "imagewidth":64,
+         "margin":0,
+         "name":"48_Neuland2",
+         "spacing":0,
+         "tilecount":2,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "firstgid":2232,
          "source":"tiles_png\/community\/cert\/imgs\/c3_deko\/2_Rundzelt_0.json"
         }, 
         {
+         "columns":2,
          "firstgid":2247,
-         "source":"worldExit.json"
+         "image":"worldExit.png",
+         "imageheight":64,
+         "imagewidth":64,
+         "margin":0,
+         "name":"worldExit",
+         "spacing":0,
+         "tilecount":4,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":2,
+         "firstgid":2251,
+         "image":"worldExit.png",
+         "imageheight":64,
+         "imagewidth":64,
+         "margin":0,
+         "name":"worldExit",
+         "spacing":0,
+         "tilecount":4,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":15,
+         "firstgid":2255,
+         "image":"tiles_png\/community\/bytewerk\/cija_32x32_expansion for Pipoya_CC0.png",
+         "imageheight":4256,
+         "imagewidth":480,
+         "margin":0,
+         "name":"cija_32x32_expansion for Pipoya_CC0",
+         "spacing":0,
+         "tilecount":1995,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":2,
+         "firstgid":4250,
+         "image":"tiles_png\/community\/cert\/imgs\/misc\/48_Neuland2.png",
+         "imageheight":32,
+         "imagewidth":64,
+         "margin":0,
+         "name":"48_Neuland2",
+         "spacing":0,
+         "tilecount":2,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":1,
+         "firstgid":4252,
+         "image":"tiles_png\/community\/cert\/imgs\/food_and_drinks\/02_mate_crates_1.png",
+         "imageheight":96,
+         "imagewidth":32,
+         "margin":0,
+         "name":"02_mate_crates_1",
+         "spacing":0,
+         "tilecount":3,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
