@@ -1,0 +1,14 @@
+{ "columns":7,
+ "image":"minideko.png",
+ "imageheight":416,
+ "imagewidth":224,
+ "margin":0,
+ "name":"minideko",
+ "spacing":0,
+ "tilecount":91,
+ "tiledversion":"2020.12.18",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":1.4
+}
