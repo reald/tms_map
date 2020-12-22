@@ -1,0 +1,14 @@
+{ "columns":8,
+ "image":"tms_100.png",
+ "imageheight":128,
+ "imagewidth":262,
+ "margin":0,
+ "name":"tms_100",
+ "spacing":0,
+ "tilecount":32,
+ "tiledversion":"2020.12.18",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":1.4
+}
