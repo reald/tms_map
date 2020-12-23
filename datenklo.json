@@ -1,0 +1,14 @@
+{ "columns":1,
+ "image":"datenklo.png",
+ "imageheight":64,
+ "imagewidth":32,
+ "margin":0,
+ "name":"datenklo",
+ "spacing":0,
+ "tilecount":2,
+ "tiledversion":"2020.12.18",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":1.4
+}
