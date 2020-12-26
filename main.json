@@ -247,7 +247,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/sdrctf.io\/rc3\/mate.html"
+                 "value":"https:\/\/sdrctf.rc3.io\/rc3\/mate.html"
                 }],
          "type":"tilelayer",
          "visible":true,
