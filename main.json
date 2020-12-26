@@ -343,7 +343,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/sdrctf.rc3.io\/rc3\/referrer.html"
+                 "value":"https:\/\/sdrctf.rc3.io"
                 }],
          "type":"tilelayer",
          "visible":true,
