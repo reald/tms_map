@@ -2904,30 +2904,12 @@
          "tilewidth":32
         }, 
         {
-         "columns":3,
          "firstgid":5693,
-         "image":"..\/sdrctf\/sdrctsurl.png",
-         "imageheight":99,
-         "imagewidth":99,
-         "margin":0,
-         "name":"sdrctsurl",
-         "spacing":0,
-         "tilecount":9,
-         "tileheight":32,
-         "tilewidth":32
+         "source":"sdrctsurl.json"
         }, 
         {
-         "columns":13,
          "firstgid":5702,
-         "image":"..\/..\/rC3_21\/Logo-text-quadrat.jpg",
-         "imageheight":416,
-         "imagewidth":416,
-         "margin":0,
-         "name":"Logo-text-quadrat",
-         "spacing":0,
-         "tilecount":169,
-         "tileheight":32,
-         "tilewidth":32
+         "source":"Logo-text-quadrat.json"
         }],
  "tilewidth":32,
  "type":"map",
