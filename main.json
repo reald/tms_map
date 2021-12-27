@@ -431,12 +431,6 @@
          "name":"floorLayer",
          "objects":[],
          "opacity":1,
-         "properties":[
-                {
-                 "name":"mapCopyright",
-                 "type":"string",
-                 "value":"CC BY-NC-SA 4.0"
-                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
