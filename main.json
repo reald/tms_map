@@ -475,6 +475,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"floortileset",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":""
+                }],
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
@@ -1006,6 +1012,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"01_mate",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":""
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -1019,6 +1031,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"48_Neuland2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":""
+                }],
          "spacing":0,
          "tilecount":2,
          "tileheight":32,
@@ -1032,6 +1050,12 @@
          "imagewidth":160,
          "margin":0,
          "name":"2_Rundzelt_0",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":""
+                }],
          "spacing":0,
          "tilecount":15,
          "tileheight":32,
@@ -1045,6 +1069,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"worldExit",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":""
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -1058,6 +1088,12 @@
          "imagewidth":480,
          "margin":0,
          "name":"cija_32x32_expansion for Pipoya_CC0",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":""
+                }],
          "spacing":0,
          "tilecount":1995,
          "tileheight":32,
@@ -1360,6 +1396,12 @@
          "imagewidth":96,
          "margin":0,
          "name":"camfail",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0"
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
@@ -1373,6 +1415,12 @@
          "imagewidth":262,
          "margin":0,
          "name":"tms_100",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC BY-NC-ND 4.0"
+                }],
          "spacing":0,
          "tilecount":32,
          "tileheight":32,
@@ -1386,6 +1434,12 @@
          "imagewidth":224,
          "margin":0,
          "name":"minideko",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":""
+                }],
          "spacing":0,
          "tilecount":91,
          "tileheight":32,
@@ -1517,6 +1571,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-neon-signs",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":""
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -1735,6 +1795,12 @@
          "imagewidth":96,
          "margin":0,
          "name":"rickrolled",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0"
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
@@ -1748,6 +1814,12 @@
          "imagewidth":1024,
          "margin":0,
          "name":"rc3-mullana-foyer",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":""
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -2722,6 +2794,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"jitsi",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":""
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -2735,6 +2813,12 @@
          "imagewidth":128,
          "margin":0,
          "name":"tent2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":""
+                }],
          "spacing":0,
          "tilecount":16,
          "tileheight":32,
@@ -2748,6 +2832,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"datenklo",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":""
+                }],
          "spacing":0,
          "tilecount":2,
          "tileheight":32,
@@ -2761,6 +2851,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"antenne",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":""
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -2797,7 +2893,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"CC BY-NC-SA 4.0"
+                 "value":"CC0"
                 }],
          "spacing":0,
          "tilecount":9,
