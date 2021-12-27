@@ -311,7 +311,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>\/maps\/generic-tech.json#start_tms}"
+                 "value":"world:\/\/lobby\/floppy-landfill.json#start_TMS"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -2770,19 +2770,6 @@
         {
          "columns":3,
          "firstgid":5687,
-         "image":"sdrctsurl.png",
-         "imageheight":99,
-         "imagewidth":99,
-         "margin":0,
-         "name":"sdrctsurl",
-         "spacing":0,
-         "tilecount":9,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
-         "columns":3,
-         "firstgid":5696,
          "image":"sdrctsurl.png",
          "imageheight":99,
          "imagewidth":99,
