@@ -453,9 +453,9 @@
  "orientation":"orthogonal",
  "properties":[
         {
-         "name":"silent",
-         "type":"bool",
-         "value":true
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"CC BY-NC-ND 4.0"
         }],
  "renderorder":"right-down",
  "tiledversion":"2020.12.18",
